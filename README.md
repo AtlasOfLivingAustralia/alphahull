@@ -1,9 +1,13 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-
-# alphahull
+<img src="man/figures/logo.png" align="left" style="margin: 20px 10px 0px 0px;" alt="" width="120"/><br>
+<h2>
+alphahull
+</h2>
 
 **Maintainer:** Beatriz Pateiro-Lopez
+
+------------------------------------------------------------------------
 
 Computation of the alpha-shape and alpha-convex hull of a given sample
 of points in the plane. The concepts of alpha-shape and alpha-convex
